@@ -1,6 +1,6 @@
 {
   "name": "heiqi-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "heiqi-cli 脚手架",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "author": "heiqi",
   "bin": {
-    "heiqi": "dist/index.js"
+    "heiqi": "bin/index.js"
   },
   "files": [
     "dist",
